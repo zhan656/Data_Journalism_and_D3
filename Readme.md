@@ -1,6 +1,6 @@
 # Data Journalism and D3
 
-<a target='_blank' href="https://universalmedicine.s3.amazonaws.com/uml/production/images/articles/1704/thumb_big_AC0024-DD8-truth-journalism.jpg"><img alt='Newspaper Printing (via GIPHY)' src="http://i.giphy.com/v2xIous7mnEYg.gif" /> <br><em>via GIPHY</em></a>
+<a target='_blank' href="https://universalmedicine.s3.amazonaws.com/uml/production/images/articles/1704/thumb_big_AC0024-DD8-truth-journalism.jpg"><img alt='Newspaper Printing (via GIPHY)' src="https://universalmedicine.s3.amazonaws.com/uml/production/images/articles/1704/thumb_big_AC0024-DD8-truth-journalism.jpg" /> <br><em>via GIPHY</em></a>
 
 ## Background
 
